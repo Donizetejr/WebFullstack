@@ -1,0 +1,22 @@
+index=primeira pagina de um site
+ layout= trabalho de um desingner (desenhar sites por meio de ferramentas de 
+ediçao de imagems)
+template= e o layout codificado em html css as vezes com JS (JavaScript)
+identar= organizar codigo com tabs and enter para facilitar a visualização
+tag= <....> (aberta)  </...> (fechado)
+<meta charset="utf-8"> = reconhecimento de acentos na pagina web
+todas as tags <meta> esta dentro do head
+
+Estrutura básica do html:
+
+        <!doctype html>
+        <html>
+            <head>
+                <title>Meu site</title>
+                <meta charset="utf-8">
+
+            </head>
+            <body>
+                Meu primeiro site
+            </body>
+        </html>
